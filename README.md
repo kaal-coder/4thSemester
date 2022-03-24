@@ -11,3 +11,4 @@ Intresting fact &#128161; :- Just in case you are not able to find this reposito
 ## Built With &#128736;&#65039;
 <img src= "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height=40 ></img>
 <img src= "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height=40 ></img>
+<h3 align="center">Made with &#128157; by <a href= "https://linktr.ee/kaushiklakhani"> Kaushik Lakhani </a></h3>
