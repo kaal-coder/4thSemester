@@ -20,4 +20,4 @@ Intresting fact &#128161; :- Just in case you are not able to find this reposito
 <img src= "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height=40 ></img>
 
 
-<h3 align="center">Made with &#128157; by <a href= "https://linktr.ee/kaushiklakhani"> Kaushik Lakhani </a></h3>
+<h3 align="center">Made with &#x1F90D; by <a href= "https://linktr.ee/kaushiklakhani"> Kaushik Lakhani </a></h3>
